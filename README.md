@@ -1,5 +1,7 @@
 # Autophagy
 
+[App Store](https://apps.apple.com/us/app/autophagy/id6760019532)
+
 <p>
   <img src="README.assets/liveActivity.png" alt="Live Activity" width="520">
 </p>
